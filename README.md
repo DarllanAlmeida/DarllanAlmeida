@@ -42,3 +42,5 @@ I love playing piano, guitar, video games and listen to music.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-darllanalmeida&show_icons=true&theme=radical)
