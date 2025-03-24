@@ -33,5 +33,14 @@ I love playing piano, guitar, video games and listen to music.
 ## 💻 Tech Stack:
 
 ![HTML](https://badgen.net/badge/HTML/E34F26?icon=html)
+![CSS](https://badgen.net/badge/CSS/1572B6?icon=css3)
+![JavaScript](https://badgen.net/badge/JavaScript/F7DF1E?icon=javascript)
+![Python](https://badgen.net/badge/Python/3776AB?icon=python)
+![React](https://badgen.net/badge/React/61DAFB?icon=react)
+![Node.js](https://badgen.net/badge/Node.js/339933?icon=node.js)
+![TypeScript](https://badgen.net/badge/TypeScript/3178C6?icon=typescript)
+![Git](https://badgen.net/badge/Git/F05032?icon=git)
+![Docker](https://badgen.net/badge/Docker/2496ED?icon=docker)
+![Ruby](https://badgen.net/badge/Ruby/CC342D?icon=ruby)
 
 
