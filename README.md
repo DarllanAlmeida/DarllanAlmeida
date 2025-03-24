@@ -32,4 +32,6 @@ I love playing piano, guitar, video games and listen to music.
 
 ## 💻 Tech Stack:
 
+![HTML](https://badgen.net/badge/HTML-E34F26?icon=html)
+
 
