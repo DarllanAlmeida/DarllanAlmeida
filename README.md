@@ -7,11 +7,16 @@ So, if you're looking for someone who is detail-oriented, consistent, and highly
 
 - 🔭 I’m currently working on
 - Improving my knowledge and building awesome projects.
-- 🌱 I’m currently learning ...
+  
+
 - 👯 I’m looking to collaborate on
 - Fullstack/BackEnd/Frontend
+
+  
 - 💬 Ask me about
 - Java, SpringBoot, Javascript, React, HTML, CSS, Mysql, and any general software development questions.
+
+  
 - ⚡ Fun fact:
 - I love playing piano, guitar, video games and listen to music.
 
