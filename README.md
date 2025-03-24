@@ -5,18 +5,18 @@ Passionate about programming and learning new things. I am currently specialized
 So, if you're looking for someone who is detail-oriented, consistent, and highly curious about new technologies, feel free to send me a message.
 
 
-- 🔭 I’m currently working on
-- Improving my knowledge and building awesome projects.
+🔭 I’m currently working on
+Improving my knowledge and building awesome projects.
   
 
-- 👯 I’m looking to collaborate on
-- Fullstack/BackEnd/Frontend
+👯 I’m looking to collaborate on
+Fullstack/BackEnd/Frontend
 
   
-- 💬 Ask me about
-- Java, SpringBoot, Javascript, React, HTML, CSS, Mysql, and any general software development questions.
+ 💬 Ask me about
+Java, SpringBoot, Javascript, React, HTML, CSS, Mysql, and any general software development questions.
 
   
-- ⚡ Fun fact:
-- I love playing piano, guitar, video games and listen to music.
+⚡ Fun fact:
+I love playing piano, guitar, video games and listen to music.
 
