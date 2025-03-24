@@ -47,3 +47,6 @@ I love playing piano, guitar, video games and listen to music.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darllanalmeida&layout=compact&theme=radical)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darllanalmeida&theme=radical)
