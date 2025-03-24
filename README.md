@@ -24,3 +24,7 @@ Java, SpringBoot, Javascript, React, HTML, CSS, Mysql, and any general software 
 
 I love playing piano, guitar, video games and listen to music.
 
+
+
+🌐 Socials:
+
