@@ -31,6 +31,7 @@ I love playing piano, guitar, video games and listen to music.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darllan-almeida-695a54275/)
 
 ## 💻 Tech Stack:
-![HTML](https://badgen.net/badge/HTML-E34F26?icon=html)
+
+![HTML](https://badgen.net/badge/HTML/E34F26?icon=html)
 
 
