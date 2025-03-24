@@ -44,3 +44,6 @@ I love playing piano, guitar, video games and listen to music.
 ## 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darllanalmeida&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darllanalmeida&layout=compact&theme=radical)
