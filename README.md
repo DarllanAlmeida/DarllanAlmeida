@@ -26,5 +26,6 @@ I love playing piano, guitar, video games and listen to music.
 
 
 
-🌐 Socials:
+## 🌐 Socials:
+
 
