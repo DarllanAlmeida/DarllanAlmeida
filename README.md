@@ -18,7 +18,7 @@ I love teamwork 🤝, sharing knowledge, and constantly learning new technologie
 
 ---
 
-## 👯 I’m looking to collaborate on
+##  I’m looking to collaborate on
 - **Fullstack projects** (React + Node.js / Spring Boot)  
 - **Backend systems** with Java & Spring  
 - **Frontend apps** with React & TypeScript  
