@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # Hi there, I'm Darllan 👋  
 
 💻 **Fullstack Developer** | 🌱 Passionate about learning & building real-world solutions  
