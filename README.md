@@ -2,7 +2,7 @@
 
 # Hi there, I'm Darllan 👋  
 
-💻 **Fullstack Developer** | 🌱 Passionate about learning & building real-world solutions  
+💻 **Fullstack Developer** | Passionate about learning & building real-world solutions  
 
 I’m a **detail-oriented and curious developer** specialized in **Java & Spring Boot** for backend development and **React** for frontend.  
 I also have strong experience with **Node.js, TypeScript, and modern web technologies** to deliver robust and scalable applications.  
