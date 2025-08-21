@@ -1,4 +1,4 @@
-![Banner](./bannergithub.png)
+![Banner](./novobanner.png)
 
 # Hi there, I'm Darllan 👋  
 
