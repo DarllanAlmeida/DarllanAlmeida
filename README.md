@@ -1,71 +1,148 @@
 ![Banner](./banner.png)
 
-# Hi there, I'm Darllan 👋  
+# Hi there, I'm Darllan 👋
 
-💻 **Fullstack Developer** | Passionate about learning & building real-world solutions  
+💻 **Software Developer** | Passionate about learning and building real-world solutions
 
-I’m a **detail-oriented and curious developer** specialized in **Java & Spring Boot** for backend development and **React** for frontend.  
-I also have strong experience with **Node.js, TypeScript, and modern web technologies** to deliver robust and scalable applications.  
+I'm a **detail-oriented and curious Software Developer** focused on building modern web applications and solving real-world problems.
 
-I love teamwork 🤝, sharing knowledge, and constantly learning new technologies to improve my craft.  
+My main focus is **Java and Spring Boot** for backend development, combined with **React and Angular** for frontend applications.
 
----
-
-## 🔭 What I’m currently working on
-- Enhancing my **fullstack development skills**  
-- Building and contributing to **open-source projects**  
-- Exploring **cloud technologies & microservices**  
+I enjoy turning ideas into functional software, learning new technologies and continuously improving my development skills.
 
 ---
 
-##  I’m looking to collaborate on
-- **Fullstack projects** (React + Node.js / Spring Boot)  
-- **Backend systems** with Java & Spring  
-- **Frontend apps** with React & TypeScript  
+## 🚀 About Me
+
+- 💻 Focused on **Software & Full Stack Development**
+- ☕ Backend development with **Java & Spring Boot**
+- ⚛️ Frontend development with **React & Angular**
+- 🌐 Building and consuming **REST APIs**
+- 🗄️ Working with **MySQL and PostgreSQL**
+- 🔧 Using **Git and GitHub** for version control
+- 📚 Always learning and improving
+- 🤝 Interested in collaborating on software projects
 
 ---
 
-  
- 💬 Ask me about:
- 
-Java, SpringBoot, Javascript, React, HTML, CSS, Mysql, and any general software development questions.
+## 🔭 What I'm Currently Working On
 
-  
-⚡ Fun fact:
-
-I love playing piano, guitar, video games and listen to music.
-
-
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darllan-almeida-695a54275/)
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 🛠 Tools & Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- Improving my **Software Development skills**
+- Building real-world applications
+- Strengthening my knowledge of **Java & Spring Boot**
+- Developing frontend applications with **React & Angular**
+- Learning more about **software architecture and best practices**
 
 ---
 
-## 📊 GitHub Stats:
+## 💼 Featured Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darllanalmeida&show_icons=true&theme=radical)
+### 👟 KickZone
+
+Full Stack e-commerce application focused on sports footwear.
+
+**Technologies:**
+
+☕ Java  
+🌱 Spring Boot  
+🅰️ Angular  
+🗄️ MySQL  
+🌐 REST API  
+💻 JavaScript  
+🎨 HTML & CSS
+
+🔗 [View Repository](https://github.com/DarllanAlmeida/ecommerce-fullstack)
+
+---
+
+### 🌤️ Clima360
+
+Full Stack weather application that allows users to search for weather information by city using a weather API.
+
+**Technologies:**
+
+☕ Java 17  
+🌱 Spring Boot  
+⚡ Spring WebFlux  
+⚛️ React  
+💻 JavaScript  
+🎨 CSS3  
+🌐 REST API  
+🌤️ OpenWeather API
+
+🔗 [View Repository](https://github.com/DarllanAlmeida/Clima360)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+☕ Java  
+💻 JavaScript  
+📘 TypeScript  
+🌐 HTML5  
+🎨 CSS3
+
+### ⚙️ Backend
+
+🌱 Spring Boot  
+⚡ Spring WebFlux  
+🌐 REST APIs
+
+### 🎨 Frontend
+
+⚛️ React  
+🅰️ Angular
+
+### 🗄️ Databases
+
+🐬 MySQL  
+🐘 PostgreSQL
+
+### 🔧 Tools
+
+🔀 Git  
+🐙 GitHub  
+💻 VS Code
+
+---
+
+## 🌐 Connect With Me
+
+🌐 **Portfolio**
+
+https://darllanalmeida.github.io/portfolio/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/darllan-almeida-695a54275/
+
+📧 **Email**
+
+darllanmathers50@gmail.com
+
+---
+
+## 💬 Ask Me About
+
+Java, Spring Boot, React, Angular, JavaScript, REST APIs, MySQL, PostgreSQL and software development.
+
+---
+
+## ⚡ Fun Fact
+
+I love playing 🎹 piano, 🎸 guitar, 🎮 video games and listening to 🎵 music.
+
+---
+
+## 📊 GitHub Stats
+
+![Darllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarllanAlmeida&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarllanAlmeida&layout=compact&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darllanalmeida&layout=compact&theme=radical)
 
 
 
