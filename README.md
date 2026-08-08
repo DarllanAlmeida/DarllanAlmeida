@@ -136,11 +136,11 @@ I love playing 🎹 piano, 🎸 guitar, 🎮 video games and listening to 🎵 m
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Darllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarllanAlmeida&show_icons=true&theme=tokyonight)
+💻 Check out my repositories to explore my projects, technologies and development journey.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarllanAlmeida&layout=compact&theme=tokyonight)
+⭐ Feel free to explore, give feedback or connect with me!
 
 
 
