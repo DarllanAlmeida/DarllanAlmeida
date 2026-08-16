@@ -1,37 +1,41 @@
 ![Banner](./banner.png)
 
+
 # Hi there, I'm Darllan 👋
 
-💻 **Software Developer** | Passionate about learning and building real-world solutions
+💻 **Software Developer** | Full Stack Development | Java · Spring Boot · Angular
 
-I'm a **detail-oriented and curious Software Developer** focused on building modern web applications and solving real-world problems.
+I'm a **curious and detail-oriented Software Developer** focused on building modern web applications, solving problems and continuously improving my technical skills.
 
-My main focus is **Java and Spring Boot** for backend development, combined with **React and Angular** for frontend applications.
+My main focus is **Java and Spring Boot** for backend development, combined with **Angular** for frontend applications. I also have experience working with REST APIs, relational databases and modern development tools.
 
-I enjoy turning ideas into functional software, learning new technologies and continuously improving my development skills.
+I enjoy turning ideas into functional software, learning new technologies and applying good development practices to build clean and maintainable applications.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on **Software & Full Stack Development**
-- ☕ Backend development with **Java & Spring Boot**
-- ⚛️ Frontend development with **React & Angular**
-- 🌐 Building and consuming **REST APIs**
-- 🗄️ Working with **MySQL and PostgreSQL**
-- 🔧 Using **Git and GitHub** for version control
-- 📚 Always learning and improving
-- 🤝 Interested in collaborating on software projects
+* 💻 Focused on **Software & Full Stack Development**
+* ☕ Backend development with **Java & Spring Boot**
+* 🅰️ Frontend development with **Angular & TypeScript**
+* 🌐 Building and consuming **REST APIs**
+* 🔐 Working with **Spring Security & JWT**
+* 🗄️ Working with **MySQL and PostgreSQL**
+* 🐳 Learning and working with **Docker**
+* 🔧 Using **Git and GitHub** for version control
+* 📚 Continuously improving my software development skills
+* 🤝 Interested in collaborating on software projects
 
 ---
 
 ## 🔭 What I'm Currently Working On
 
-- Improving my **Software Development skills**
-- Building real-world applications
-- Strengthening my knowledge of **Java & Spring Boot**
-- Developing frontend applications with **React & Angular**
-- Learning more about **software architecture and best practices**
+* Improving my **Java & Spring Boot** skills
+* Building and improving **Full Stack web applications**
+* Strengthening my knowledge of **software architecture and best practices**
+* Improving my frontend development skills with **Angular**
+* Learning more about **Docker, deployment and application architecture**
+* Preparing to grow professionally in a **software development team**
 
 ---
 
@@ -41,15 +45,20 @@ I enjoy turning ideas into functional software, learning new technologies and co
 
 Full Stack e-commerce application focused on sports footwear.
 
+The application includes product management, authentication, shopping cart, checkout, order tracking and an administration panel.
+
 **Technologies:**
 
-☕ Java  
-🌱 Spring Boot  
-🅰️ Angular  
-🗄️ MySQL  
-🌐 REST API  
-💻 JavaScript  
-🎨 HTML & CSS
+☕ Java 17
+🌱 Spring Boot
+🔐 Spring Security
+🔑 JWT
+🅰️ Angular
+📘 TypeScript
+🗄️ MySQL
+🌐 REST API
+🔧 Hibernate / JPA
+📦 Maven
 
 🔗 [View Repository](https://github.com/DarllanAlmeida/ecommerce-fullstack)
 
@@ -57,17 +66,20 @@ Full Stack e-commerce application focused on sports footwear.
 
 ### 🌤️ Clima360
 
-Full Stack weather application that allows users to search for weather information by city using a weather API.
+Full Stack weather application that allows users to search for weather information by city and view the current weather and forecast using an external weather API.
+
+The application includes dynamic weather backgrounds, temperature unit conversion, dark/light mode and responsive design.
 
 **Technologies:**
 
-☕ Java 17  
-🌱 Spring Boot  
-⚡ Spring WebFlux  
-⚛️ React  
-💻 JavaScript  
-🎨 CSS3  
-🌐 REST API  
+☕ Java 17
+🌱 Spring Boot
+⚡ Spring WebFlux
+🌐 WebClient
+⚛️ React
+💻 JavaScript
+🎨 CSS3
+🌐 REST API
 🌤️ OpenWeather API
 
 🔗 [View Repository](https://github.com/DarllanAlmeida/Clima360)
@@ -78,32 +90,43 @@ Full Stack weather application that allows users to search for weather informati
 
 ### 💻 Languages
 
-☕ Java  
-💻 JavaScript  
-📘 TypeScript  
-🌐 HTML5  
+☕ Java
+💻 JavaScript
+📘 TypeScript
+🌐 HTML5
 🎨 CSS3
 
 ### ⚙️ Backend
 
-🌱 Spring Boot  
-⚡ Spring WebFlux  
+🌱 Spring Boot
+🔐 Spring Security
+🔑 JWT
+⚡ Spring WebFlux
+🔧 Hibernate / JPA
 🌐 REST APIs
+📦 Maven
 
 ### 🎨 Frontend
 
-⚛️ React  
 🅰️ Angular
+📘 TypeScript
+💻 JavaScript
+🌐 HTML5
+🎨 CSS3
 
 ### 🗄️ Databases
 
-🐬 MySQL  
+🐬 MySQL
 🐘 PostgreSQL
+🗃️ SQL
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
-🔀 Git  
-🐙 GitHub  
+🔀 Git
+🐙 GitHub
+🐳 Docker
+📮 Postman
+💻 IntelliJ IDEA
 💻 VS Code
 
 ---
@@ -120,13 +143,13 @@ https://www.linkedin.com/in/darllan-almeida-695a54275/
 
 📧 **Email**
 
-darllanmathers50@gmail.com
+[darllanmathers50@gmail.com](mailto:darllanmathers50@gmail.com)
 
 ---
 
 ## 💬 Ask Me About
 
-Java, Spring Boot, React, Angular, JavaScript, REST APIs, MySQL, PostgreSQL and software development.
+**Java, Spring Boot, Angular, REST APIs, MySQL, PostgreSQL, Spring Security, Full Stack Development and software development.**
 
 ---
 
@@ -134,13 +157,11 @@ Java, Spring Boot, React, Angular, JavaScript, REST APIs, MySQL, PostgreSQL and 
 
 I love playing 🎹 piano, 🎸 guitar, 🎮 video games and listening to 🎵 music.
 
----
 
-## 📊 GitHub
 
-💻 Check out my repositories to explore my projects, technologies and development journey.
 
-⭐ Feel free to explore, give feedback or connect with me!
+
+
 
 
 
