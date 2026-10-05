@@ -143,7 +143,7 @@ https://www.linkedin.com/in/darllan-almeida-695a54275/
 
 📧 **Email**
 
-[darllanmathers50@gmail.com](mailto:darllanmathers50@gmail.com)
+[contacto.darllanalmeida@gmail.com](mailto:contacto.darllanalmeida@gmail.com)
 
 ---
 
